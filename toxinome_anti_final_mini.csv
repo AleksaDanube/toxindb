@@ -1,0 +1,66 @@
+﻿,Unnamed: 0,proteinID,gene_length,pfam_start,pfam_end,s_start,s_end,pfam_e_val,pfam_bit_score,pfamID,pfam_name,pfam_length,organism,seqID,start,end,strand,product_name,genome,pfam_toxity
+0,0,2001800446,110,2,94,2,93,5.20E-25,87.6,pfam00893,Multi_Drug_Res,93,Fibrobacter succinogenes S85,fsucc_Contig2370,343764,344096,+,EmrE protein,2001800000,immunity
+1,1,2001800837,432,26,211,1,187,1.30E-28,99.7,pfam02321,OEP,188,Fibrobacter succinogenes S85,fsucc_Contig2370,767559,768857,-,Outer membrane efflux protein,2001800000,immunity
+2,2,2001800837,432,239,429,1,184,5.20E-21,74.9,pfam02321,OEP,188,Fibrobacter succinogenes S85,fsucc_Contig2370,767559,768857,-,Outer membrane efflux protein,2001800000,immunity
+3,3,2001801356,251,31,161,1,123,1.40E-05,25.1,pfam13338,DUF4095,124,Fibrobacter succinogenes S85,fsucc_Contig2370,1377262,1378017,-,Hypothetical protein XCC3118,2001800000,immunity
+4,4,2001801356,251,151,219,4,67,2.60E-18,65.4,pfam11459,DUF2893,69,Fibrobacter succinogenes S85,fsucc_Contig2370,1377262,1378017,-,Hypothetical protein XCC3118,2001800000,NA
+5,5,2001801660,60,2,52,8,43,1.10E-07,31.2,pfam02604,PhdYeFM_antitox,75,Fibrobacter succinogenes S85,fsucc_Contig2370,1715694,1715876,+,,2001800000,immunity
+6,6,2001802121,191,17,137,5,122,6.70E-10,39,pfam13338,DUF4095,124,Fibrobacter succinogenes S85,fsucc_Contig2370,2276012,2276587,-,,2001800000,immunity
+7,7,2001802274,85,2,76,2,70,6.50E-14,51.1,pfam02604,PhdYeFM_antitox,75,Fibrobacter succinogenes S85,fsucc_Contig2370,2451587,2451844,+,,2001800000,immunity
+8,8,2001802784,471,26,256,2,188,3.00E-25,88.8,pfam02321,OEP,188,Fibrobacter succinogenes S85,fsucc_Contig2370,3010956,3012371,+,Outer membrane efflux protein,2001800000,immunity
+9,9,2001802784,471,279,469,2,188,6.90E-29,100.6,pfam02321,OEP,188,Fibrobacter succinogenes S85,fsucc_Contig2370,3010956,3012371,+,Outer membrane efflux protein,2001800000,immunity
+10,10,2001803077,157,5,77,2,60,3.40E-08,33,pfam02381,MraZ,72,Fibrobacter succinogenes S85,fsucc_Contig2370,3349988,3350461,-,Conserved hypothetical,2001800000,immunity
+11,11,2001803077,157,81,144,8,51,2.20E-07,30.3,pfam02381,MraZ,72,Fibrobacter succinogenes S85,fsucc_Contig2370,3349988,3350461,-,Conserved hypothetical,2001800000,immunity
+12,12,2001803164,91,5,78,2,71,1.80E-14,52.9,pfam02604,PhdYeFM_antitox,75,Fibrobacter succinogenes S85,fsucc_Contig2370,3446715,3446990,-,Hypothetical protein,2001800000,immunity
+13,13,2001803177,462,25,232,3,188,5.80E-16,58.5,pfam02321,OEP,188,Fibrobacter succinogenes S85,fsucc_Contig2370,3461605,3462993,-,Outer membrane efflux protein - putative,2001800000,immunity
+14,14,2001803177,462,256,433,2,160,2.70E-11,43.2,pfam02321,OEP,188,Fibrobacter succinogenes S85,fsucc_Contig2370,3461605,3462993,-,Outer membrane efflux protein - putative,2001800000,immunity
+15,15,2001803241,730,164,442,17,300,1.20E-16,59.7,pfam05547,Peptidase_M6,646,Fibrobacter succinogenes S85,fsucc_Contig2370,3547561,3549753,-,Secreted metalloprotease,2001800000,immunity
+16,16,2001803317,71,1,60,6,62,3.30E-10,39.8,pfam14384,DUF4415,62,Fibrobacter succinogenes S85,fsucc_Contig2370,3654634,3654849,-,Hypothetical protein,2001800000,immunity
+17,17,2001803411,563,22,300,1,187,8.90E-28,97,pfam02321,OEP,188,Fibrobacter succinogenes S85,fsucc_Contig2370,3791700,3793391,-,Hypothetical protein SO4090,2001800000,immunity
+18,18,2001803411,563,320,502,1,188,1.60E-25,89.7,pfam02321,OEP,188,Fibrobacter succinogenes S85,fsucc_Contig2370,3791700,3793391,-,Hypothetical protein SO4090,2001800000,immunity
+19,19,2001803449,145,36,94,1,58,1.00E-16,60.2,pfam01047,MarR,59,Fibrobacter succinogenes S85,fsucc_Contig2370,3836956,3837393,+,Transcriptional regulator - MarR family,2001800000,immunity
+20,20,2004171384,555,81,322,2,188,2.00E-22,79.6,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold4,77064,78731,+,hypothetical protein,2004170000,immunity
+21,21,2004171384,555,349,540,1,187,6.40E-27,94.2,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold4,77064,78731,+,hypothetical protein,2004170000,immunity
+22,22,2004171440,79,1,60,21,62,1.00E-12,47.8,pfam14384,DUF4415,62,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold4,126454,126693,+,conserved hypothetical protein,2004170000,immunity
+23,23,2004171576,90,30,74,6,42,1.80E-07,30.7,pfam09957,DUF2191,47,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold4,262117,262389,-,unknown protein,2004170000,immunity
+24,24,2004171937,493,83,269,3,188,9.40E-23,80.6,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold4,601816,603297,-,osmoregulation and excretion -general bacterial porin family (e.g. ompf - sugar porin - omf) -detoxification by export,2004170000,immunity
+25,25,2004171937,493,296,479,7,188,2.60E-24,85.7,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold4,601816,603297,-,osmoregulation and excretion -general bacterial porin family (e.g. ompf - sugar porin - omf) -detoxification by export,2004170000,immunity
+26,26,2004172297,489,121,283,28,188,6.40E-10,38.8,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,39397,40866,-,hypothetical outermembrane protein,2004170000,immunity
+27,27,2004172297,489,307,483,1,188,8.70E-12,44.8,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,39397,40866,-,hypothetical outermembrane protein,2004170000,immunity
+28,28,2004172391,146,1,76,1,71,7.90E-20,70.2,pfam02381,MraZ,72,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,124788,125228,+,conserved hypothetical protein,2004170000,immunity
+29,29,2004172391,146,77,146,2,69,2.50E-15,55.8,pfam02381,MraZ,72,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,124788,125228,+,conserved hypothetical protein,2004170000,immunity
+30,30,2004172808,89,4,49,2,45,7.60E-09,34.9,pfam04014,Antitoxin-MazE,47,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,511793,512062,+,hypothetical protein,2004170000,immunity
+31,31,2004172929,479,64,263,4,188,3.10E-20,72.4,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,622530,623969,+,detoxification by export,2004170000,immunity
+32,32,2004172929,479,286,472,4,188,1.40E-20,73.5,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,622530,623969,+,detoxification by export,2004170000,immunity
+33,33,2004173550,139,34,126,1,93,3.20E-28,97.9,pfam00893,Multi_Drug_Res,93,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,1197992,1198411,-,protein folding and stabilization -eukaryotic plasma membrane / membrane attached,2004170000,immunity
+34,34,2004174138,265,41,158,6,124,1.20E-24,86.7,pfam13338,DUF4095,124,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,1685993,1686790,+,conserved hypothetical protein,2004170000,immunity
+35,35,2004174220,106,1,94,1,93,3.40E-23,81.8,pfam00893,Multi_Drug_Res,93,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,1761132,1761452,+,proton driven antiporter -drug transport,2004170000,immunity
+36,36,2004174325,457,69,250,4,170,8.30E-22,77.5,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,1857547,1858920,+,heavy metal ion transport (Cu - Fe - etc.) -inorganic chemical agent resistance (e.g. heavy metals),2004170000,immunity
+37,37,2004174325,457,273,452,2,188,8.30E-24,84,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,1857547,1858920,+,heavy metal ion transport (Cu - Fe - etc.) -inorganic chemical agent resistance (e.g. heavy metals),2004170000,immunity
+38,38,2004174345,486,71,250,1,188,3.80E-17,62.3,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,1880350,1881810,+,similar to outermembrane (copper) efflux protein,2004170000,immunity
+39,39,2004174345,486,274,453,1,188,9.70E-15,54.5,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,1880350,1881810,+,similar to outermembrane (copper) efflux protein,2004170000,immunity
+40,40,2004174665,430,44,223,2,188,1.50E-26,93,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,2155753,2157045,-,proton driven antiporter -heavy metal ion transport (Cu - Fe - etc.) -detoxification by export,2004170000,immunity
+41,41,2004174665,430,245,423,1,188,1.30E-28,99.7,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,2155753,2157045,-,proton driven antiporter -heavy metal ion transport (Cu - Fe - etc.) -detoxification by export,2004170000,immunity
+42,42,2004174668,93,1,78,1,54,6.90E-12,44.6,pfam02604,PhdYeFM_antitox,75,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,2158421,2158702,+,unknown protein,2004170000,immunity
+43,43,2004174681,434,50,229,1,188,1.20E-22,80.3,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,2169521,2170825,-,proton driven antiporter -heavy metal ion transport (Cu - Fe - etc.) -detoxification by export,2004170000,immunity
+44,44,2004174681,434,251,428,2,186,3.70E-20,72.2,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,2169521,2170825,-,proton driven antiporter -heavy metal ion transport (Cu - Fe - etc.) -detoxification by export,2004170000,immunity
+45,45,2005121306,80,6,77,4,66,1.20E-08,34.2,pfam02604,PhdYeFM_antitox,75,Treponema azotonutricium ZAS9,trepazo_1100227299173,29608,29850,-,,2005121000,immunity
+46,46,2005121321,436,26,208,1,188,4.40E-21,75.2,pfam02321,OEP,188,Treponema azotonutricium ZAS9,trepazo_1100227299004,13638,14948,-,Outer membrane protein,2005121000,immunity
+47,47,2005121321,436,234,421,10,187,1.30E-15,57.4,pfam02321,OEP,188,Treponema azotonutricium ZAS9,trepazo_1100227299004,13638,14948,-,Outer membrane protein,2005121000,immunity
+48,48,2005121687,180,37,162,5,97,1.70E-07,31.2,pfam13338,DUF4095,124,Treponema azotonutricium ZAS9,trepazo_1100227299188,1880,2422,-,Hypothetical protein,2005121000,immunity
+49,49,2005121750,65,1,47,1,45,6.50E-15,54.5,pfam09957,DUF2191,47,Treponema azotonutricium ZAS9,trepazo_1100227299144,4581,4778,-,,2005121000,immunity
+50,50,2005121758,112,50,96,1,44,3.70E-14,52.1,pfam09957,DUF2191,47,Treponema azotonutricium ZAS9,trepazo_1100227299144,10969,11307,-,,2005121000,immunity
+51,51,2005122197,99,1,90,1,50,6.10E-08,32,pfam02604,PhdYeFM_antitox,75,Treponema azotonutricium ZAS9,trepazo_1100227299003,209,508,+,,2005121000,immunity
+52,52,2005122696,103,34,93,2,59,1.50E-08,34.5,pfam14384,DUF4415,62,Treponema azotonutricium ZAS9,trepazo_1100227299159,48477,48788,+,,2005121000,immunity
+53,53,2005123615,256,47,244,2,188,2.00E-17,63.2,pfam02321,OEP,188,Treponema azotonutricium ZAS9,trepazo_1100227299190,43374,44144,-,Hypothetical protein BB0142,2005121000,immunity
+54,54,2005123644,145,34,93,2,59,2.10E-11,43.2,pfam01047,MarR,59,Treponema azotonutricium ZAS9,trepazo_1100227299153,10663,11100,+,,2005121000,immunity
+55,55,2005123774,88,8,78,4,55,9.90E-13,47.3,pfam02604,PhdYeFM_antitox,75,Treponema azotonutricium ZAS9,trepazo_1100227299192,26800,27066,+,Gsr2381 protein,2005121000,immunity
+56,56,2005123877,109,10,99,8,59,6.40E-06,26,pfam14384,DUF4415,62,Treponema azotonutricium ZAS9,trepazo_1100227299011,14954,15283,-,,2005121000,immunity
+57,57,2005124017,199,30,199,2,159,1.60E-19,70,pfam02321,OEP,188,Treponema azotonutricium ZAS9,trepazo_1100227299149,18478,19075,+,Hypothetical protein BB0142,2005121000,immunity
+58,58,2005124039,167,64,105,25,58,3.70E-06,26.4,pfam01047,MarR,59,Treponema azotonutricium ZAS9,trepazo_1100227299127,16564,17067,+,,2005121000,immunity
+59,59,2005124049,63,1,52,1,42,4.70E-13,48.5,pfam09957,DUF2191,47,Treponema azotonutricium ZAS9,trepazo_1100227299127,26249,26440,+,,2005121000,immunity
+60,60,2005124143,107,38,97,1,59,6.50E-09,35.7,pfam14384,DUF4415,62,Treponema azotonutricium ZAS9,trepazo_1100227299196,25893,26216,-,,2005121000,immunity
+61,61,2005124214,63,1,47,2,44,1.40E-13,50.2,pfam09957,DUF2191,47,Treponema azotonutricium ZAS9,trepazo_1100227299111,7209,7400,-,,2005121000,immunity
+62,62,2005124265,101,35,91,1,61,8.50E-09,35.3,pfam14384,DUF4415,62,Treponema azotonutricium ZAS9,trepazo_1100227299168,7584,7889,-,,2005121000,immunity
+63,63,2005124430,80,5,50,3,44,2.60E-07,30,pfam04014,Antitoxin-MazE,47,Treponema azotonutricium ZAS9,trepazo_1100227299039,60920,61162,+,,2005121000,immunity
+64,64,2005124514,459,58,211,35,188,1.00E-16,61,pfam02321,OEP,188,Treponema azotonutricium ZAS9,trepazo_1100227299181,34322,35701,-,,2005121000,immunity

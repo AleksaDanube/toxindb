@@ -1,0 +1,198 @@
+﻿,proteinID,gene_length,pfam_start,pfam_end,s_start,s_end,pfam_e_val,pfam_bit_score,pfamID,pfam_name,pfam_length,organism,start,end,strand,product_name,genome
+0,2001800446,110,2,94,2,93,5.20E-25,87.6,pfam00893,Multi_Drug_Res,93,Fibrobacter succinogenes S85,343764,344096,+,EmrE protein,2001800000
+1,2001800837,432,26,211,1,187,1.30E-28,99.7,pfam02321,OEP,188,Fibrobacter succinogenes S85,767559,768857,-,Outer membrane efflux protein,2001800000
+2,2001800837,432,239,429,1,184,5.20E-21,74.9,pfam02321,OEP,188,Fibrobacter succinogenes S85,767559,768857,-,Outer membrane efflux protein,2001800000
+3,2001801356,251,31,161,1,123,1.40E-05,25.1,pfam13338,DUF4095,124,Fibrobacter succinogenes S85,1377262,1378017,-,Hypothetical protein XCC3118,2001800000
+4,2001801356,251,151,219,4,67,2.60E-18,65.4,pfam11459,DUF2893,69,Fibrobacter succinogenes S85,1377262,1378017,-,Hypothetical protein XCC3118,2001800000
+5,2001801660,60,2,52,8,43,1.10E-07,31.2,pfam02604,PhdYeFM_antitox,75,Fibrobacter succinogenes S85,1715694,1715876,+,,2001800000
+6,2001802121,191,17,137,5,122,6.70E-10,39,pfam13338,DUF4095,124,Fibrobacter succinogenes S85,2276012,2276587,-,,2001800000
+7,2001802274,85,2,76,2,70,6.50E-14,51.1,pfam02604,PhdYeFM_antitox,75,Fibrobacter succinogenes S85,2451587,2451844,+,,2001800000
+8,2001802784,471,26,256,2,188,3.00E-25,88.8,pfam02321,OEP,188,Fibrobacter succinogenes S85,3010956,3012371,+,Outer membrane efflux protein,2001800000
+9,2001802784,471,279,469,2,188,6.90E-29,100.6,pfam02321,OEP,188,Fibrobacter succinogenes S85,3010956,3012371,+,Outer membrane efflux protein,2001800000
+10,2001803077,157,5,77,2,60,3.40E-08,33,pfam02381,MraZ,72,Fibrobacter succinogenes S85,3349988,3350461,-,Conserved hypothetical,2001800000
+11,2001803077,157,81,144,8,51,2.20E-07,30.3,pfam02381,MraZ,72,Fibrobacter succinogenes S85,3349988,3350461,-,Conserved hypothetical,2001800000
+12,2001803164,91,5,78,2,71,1.80E-14,52.9,pfam02604,PhdYeFM_antitox,75,Fibrobacter succinogenes S85,3446715,3446990,-,Hypothetical protein,2001800000
+13,2001803177,462,25,232,3,188,5.80E-16,58.5,pfam02321,OEP,188,Fibrobacter succinogenes S85,3461605,3462993,-,Outer membrane efflux protein - putative,2001800000
+14,2001803177,462,256,433,2,160,2.70E-11,43.2,pfam02321,OEP,188,Fibrobacter succinogenes S85,3461605,3462993,-,Outer membrane efflux protein - putative,2001800000
+15,2001803241,730,164,442,17,300,1.20E-16,59.7,pfam05547,Peptidase_M6,646,Fibrobacter succinogenes S85,3547561,3549753,-,Secreted metalloprotease,2001800000
+16,2001803317,71,1,60,6,62,3.30E-10,39.8,pfam14384,DUF4415,62,Fibrobacter succinogenes S85,3654634,3654849,-,Hypothetical protein,2001800000
+17,2001803411,563,22,300,1,187,8.90E-28,97,pfam02321,OEP,188,Fibrobacter succinogenes S85,3791700,3793391,-,Hypothetical protein SO4090,2001800000
+18,2001803411,563,320,502,1,188,1.60E-25,89.7,pfam02321,OEP,188,Fibrobacter succinogenes S85,3791700,3793391,-,Hypothetical protein SO4090,2001800000
+19,2001803449,145,36,94,1,58,1.00E-16,60.2,pfam01047,MarR,59,Fibrobacter succinogenes S85,3836956,3837393,+,Transcriptional regulator - MarR family,2001800000
+20,2004171384,555,81,322,2,188,2.00E-22,79.6,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,77064,78731,+,hypothetical protein,2004170000
+21,2004171384,555,349,540,1,187,6.40E-27,94.2,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,77064,78731,+,hypothetical protein,2004170000
+22,2004171440,79,1,60,21,62,1.00E-12,47.8,pfam14384,DUF4415,62,Candidatus Kuenenia stuttgartiensis,126454,126693,+,conserved hypothetical protein,2004170000
+23,2004171576,90,30,74,6,42,1.80E-07,30.7,pfam09957,DUF2191,47,Candidatus Kuenenia stuttgartiensis,262117,262389,-,unknown protein,2004170000
+24,2004171937,493,83,269,3,188,9.40E-23,80.6,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,601816,603297,-,osmoregulation and excretion -general bacterial porin family (e.g. ompf - sugar porin - omf) -detoxification by export,2004170000
+25,2004171937,493,296,479,7,188,2.60E-24,85.7,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,601816,603297,-,osmoregulation and excretion -general bacterial porin family (e.g. ompf - sugar porin - omf) -detoxification by export,2004170000
+26,2004172297,489,121,283,28,188,6.40E-10,38.8,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,39397,40866,-,hypothetical outermembrane protein,2004170000
+27,2004172297,489,307,483,1,188,8.70E-12,44.8,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,39397,40866,-,hypothetical outermembrane protein,2004170000
+28,2004172391,146,1,76,1,71,7.90E-20,70.2,pfam02381,MraZ,72,Candidatus Kuenenia stuttgartiensis,124788,125228,+,conserved hypothetical protein,2004170000
+29,2004172391,146,77,146,2,69,2.50E-15,55.8,pfam02381,MraZ,72,Candidatus Kuenenia stuttgartiensis,124788,125228,+,conserved hypothetical protein,2004170000
+30,2004172808,89,4,49,2,45,7.60E-09,34.9,pfam04014,Antitoxin-MazE,47,Candidatus Kuenenia stuttgartiensis,511793,512062,+,hypothetical protein,2004170000
+31,2004172929,479,64,263,4,188,3.10E-20,72.4,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,622530,623969,+,detoxification by export,2004170000
+32,2004172929,479,286,472,4,188,1.40E-20,73.5,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,622530,623969,+,detoxification by export,2004170000
+33,2004173550,139,34,126,1,93,3.20E-28,97.9,pfam00893,Multi_Drug_Res,93,Candidatus Kuenenia stuttgartiensis,1197992,1198411,-,protein folding and stabilization -eukaryotic plasma membrane / membrane attached,2004170000
+34,2004174138,265,41,158,6,124,1.20E-24,86.7,pfam13338,DUF4095,124,Candidatus Kuenenia stuttgartiensis,1685993,1686790,+,conserved hypothetical protein,2004170000
+35,2004174220,106,1,94,1,93,3.40E-23,81.8,pfam00893,Multi_Drug_Res,93,Candidatus Kuenenia stuttgartiensis,1761132,1761452,+,proton driven antiporter -drug transport,2004170000
+36,2004174325,457,69,250,4,170,8.30E-22,77.5,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,1857547,1858920,+,heavy metal ion transport (Cu - Fe - etc.) -inorganic chemical agent resistance (e.g. heavy metals),2004170000
+37,2004174325,457,273,452,2,188,8.30E-24,84,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,1857547,1858920,+,heavy metal ion transport (Cu - Fe - etc.) -inorganic chemical agent resistance (e.g. heavy metals),2004170000
+38,2004174345,486,71,250,1,188,3.80E-17,62.3,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,1880350,1881810,+,similar to outermembrane (copper) efflux protein,2004170000
+39,2004174345,486,274,453,1,188,9.70E-15,54.5,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,1880350,1881810,+,similar to outermembrane (copper) efflux protein,2004170000
+40,2004174665,430,44,223,2,188,1.50E-26,93,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,2155753,2157045,-,proton driven antiporter -heavy metal ion transport (Cu - Fe - etc.) -detoxification by export,2004170000
+41,2004174665,430,245,423,1,188,1.30E-28,99.7,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,2155753,2157045,-,proton driven antiporter -heavy metal ion transport (Cu - Fe - etc.) -detoxification by export,2004170000
+42,2004174668,93,1,78,1,54,6.90E-12,44.6,pfam02604,PhdYeFM_antitox,75,Candidatus Kuenenia stuttgartiensis,2158421,2158702,+,unknown protein,2004170000
+43,2004174681,434,50,229,1,188,1.20E-22,80.3,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,2169521,2170825,-,proton driven antiporter -heavy metal ion transport (Cu - Fe - etc.) -detoxification by export,2004170000
+44,2004174681,434,251,428,2,186,3.70E-20,72.2,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,2169521,2170825,-,proton driven antiporter -heavy metal ion transport (Cu - Fe - etc.) -detoxification by export,2004170000
+45,2005121306,80,6,77,4,66,1.20E-08,34.2,pfam02604,PhdYeFM_antitox,75,Treponema azotonutricium ZAS9,29608,29850,-,,2005121000
+46,2005121321,436,26,208,1,188,4.40E-21,75.2,pfam02321,OEP,188,Treponema azotonutricium ZAS9,13638,14948,-,Outer membrane protein,2005121000
+47,2005121321,436,234,421,10,187,1.30E-15,57.4,pfam02321,OEP,188,Treponema azotonutricium ZAS9,13638,14948,-,Outer membrane protein,2005121000
+48,2005121687,180,37,162,5,97,1.70E-07,31.2,pfam13338,DUF4095,124,Treponema azotonutricium ZAS9,1880,2422,-,Hypothetical protein,2005121000
+49,2005121750,65,1,47,1,45,6.50E-15,54.5,pfam09957,DUF2191,47,Treponema azotonutricium ZAS9,4581,4778,-,,2005121000
+50,2005121758,112,50,96,1,44,3.70E-14,52.1,pfam09957,DUF2191,47,Treponema azotonutricium ZAS9,10969,11307,-,,2005121000
+51,2005122197,99,1,90,1,50,6.10E-08,32,pfam02604,PhdYeFM_antitox,75,Treponema azotonutricium ZAS9,209,508,+,,2005121000
+52,2005122696,103,34,93,2,59,1.50E-08,34.5,pfam14384,DUF4415,62,Treponema azotonutricium ZAS9,48477,48788,+,,2005121000
+53,2005123615,256,47,244,2,188,2.00E-17,63.2,pfam02321,OEP,188,Treponema azotonutricium ZAS9,43374,44144,-,Hypothetical protein BB0142,2005121000
+54,2005123644,145,34,93,2,59,2.10E-11,43.2,pfam01047,MarR,59,Treponema azotonutricium ZAS9,10663,11100,+,,2005121000
+55,2005123774,88,8,78,4,55,9.90E-13,47.3,pfam02604,PhdYeFM_antitox,75,Treponema azotonutricium ZAS9,26800,27066,+,Gsr2381 protein,2005121000
+56,2005123877,109,10,99,8,59,6.40E-06,26,pfam14384,DUF4415,62,Treponema azotonutricium ZAS9,14954,15283,-,,2005121000
+57,2005124017,199,30,199,2,159,1.60E-19,70,pfam02321,OEP,188,Treponema azotonutricium ZAS9,18478,19075,+,Hypothetical protein BB0142,2005121000
+58,2005124039,167,64,105,25,58,3.70E-06,26.4,pfam01047,MarR,59,Treponema azotonutricium ZAS9,16564,17067,+,,2005121000
+59,2005124049,63,1,52,1,42,4.70E-13,48.5,pfam09957,DUF2191,47,Treponema azotonutricium ZAS9,26249,26440,+,,2005121000
+60,2005124143,107,38,97,1,59,6.50E-09,35.7,pfam14384,DUF4415,62,Treponema azotonutricium ZAS9,25893,26216,-,,2005121000
+61,2005124214,63,1,47,2,44,1.40E-13,50.2,pfam09957,DUF2191,47,Treponema azotonutricium ZAS9,7209,7400,-,,2005121000
+62,2005124265,101,35,91,1,61,8.50E-09,35.3,pfam14384,DUF4415,62,Treponema azotonutricium ZAS9,7584,7889,-,,2005121000
+63,2005124430,80,5,50,3,44,2.60E-07,30,pfam04014,Antitoxin-MazE,47,Treponema azotonutricium ZAS9,60920,61162,+,,2005121000
+64,2005124514,459,58,211,35,188,1.00E-16,61,pfam02321,OEP,188,Treponema azotonutricium ZAS9,34322,35701,-,,2005121000
+65,2005521829,84,1,74,1,75,5.90E-22,76.9,pfam02604,PhdYeFM_antitox,75,Chrysiogenes arsenatis DSM 11915,20263,20517,+,DUF172,2005520001
+66,2005521849,85,1,70,1,67,8.90E-14,50.7,pfam02604,PhdYeFM_antitox,75,Chrysiogenes arsenatis DSM 11915,44440,44697,+,Antitoxin of toxin-antitoxin stability system,2005520001
+67,2005521965,130,19,77,3,59,5.90E-14,51.4,pfam01047,MarR,59,Chrysiogenes arsenatis DSM 11915,152276,152668,-,putative regulator protein,2005520001
+68,2005522061,81,10,81,2,72,1.10E-22,79.5,pfam07362,CcdA,72,Chrysiogenes arsenatis DSM 11915,238107,238352,-,Post-segregation antitoxin (ccd killing mechanism protein) encoded by the F plasmid,2005520001
+69,2005522102,614,27,212,7,184,1.10E-14,54.4,pfam02321,OEP,188,Chrysiogenes arsenatis DSM 11915,288787,290631,+,agglutination protein - putative,2005520001
+70,2005522102,614,234,418,1,180,3.30E-18,65.8,pfam02321,OEP,188,Chrysiogenes arsenatis DSM 11915,288787,290631,+,agglutination protein - putative,2005520001
+71,2005522212,147,31,91,2,62,8.10E-11,41.3,pfam12802,MarR_2,62,Chrysiogenes arsenatis DSM 11915,423668,424111,+,transcription regulator all0372,2005520001
+72,2005522440,433,24,216,3,184,1.10E-21,77.2,pfam02321,OEP,188,Chrysiogenes arsenatis DSM 11915,642991,644292,+,Outer membrane efflux protein family,2005520001
+73,2005522440,433,237,425,2,188,1.20E-29,103.1,pfam02321,OEP,188,Chrysiogenes arsenatis DSM 11915,642991,644292,+,Outer membrane efflux protein family,2005520001
+74,2005522598,529,136,292,44,183,6.10E-12,45.3,pfam02321,OEP,188,Chrysiogenes arsenatis DSM 11915,808594,810183,-,outer membrane efflux protein - putative,2005520001
+75,2005522598,529,320,521,13,184,5.90E-14,51.9,pfam02321,OEP,188,Chrysiogenes arsenatis DSM 11915,808594,810183,-,outer membrane efflux protein - putative,2005520001
+76,2005522874,85,7,79,3,67,6.30E-12,44.8,pfam02604,PhdYeFM_antitox,75,Chrysiogenes arsenatis DSM 11915,1125186,1125443,+,prevent-host-death family protein,2005520001
+77,2005522934,91,5,78,2,67,2.00E-12,46.4,pfam02604,PhdYeFM_antitox,75,Chrysiogenes arsenatis DSM 11915,1178018,1178293,-,prevent-host-death family protein subfamily - putative,2005520001
+78,2005522972,106,1,93,1,93,6.50E-31,106.5,pfam00893,Multi_Drug_Res,93,Chrysiogenes arsenatis DSM 11915,1218016,1218336,-,sugE protein,2005520001
+79,2005523615,482,75,261,1,188,3.20E-27,95.2,pfam02321,OEP,188,Chrysiogenes arsenatis DSM 11915,1884341,1885789,+,ABC export system - outer membrane protein,2005520001
+80,2005523615,482,285,468,7,188,2.60E-23,82.4,pfam02321,OEP,188,Chrysiogenes arsenatis DSM 11915,1884341,1885789,+,ABC export system - outer membrane protein,2005520001
+81,2005524071,410,46,209,27,188,4.20E-13,49.2,pfam02321,OEP,188,Chrysiogenes arsenatis DSM 11915,2305374,2306606,+,putative outer membrane cation efflux protein,2005520001
+82,2005524071,410,230,405,3,185,6.80E-10,38.7,pfam02321,OEP,188,Chrysiogenes arsenatis DSM 11915,2305374,2306606,+,putative outer membrane cation efflux protein,2005520001
+83,2005525866,659,49,237,1,183,6.10E-19,68.2,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,27161,29140,-,related to outer membrane (agglutination) protein,2005520003
+84,2005525866,659,258,442,2,188,9.40E-22,77.4,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,27161,29140,-,related to outer membrane (agglutination) protein,2005520003
+85,2005525866,659,555,650,1,97,1.80E-20,73,pfam00691,OmpA,97,Geovibrio thiophilus AAFu3T,27161,29140,-,related to outer membrane (agglutination) protein,2005520003
+86,2005525999,149,33,91,1,58,5.60E-14,51.4,pfam01047,MarR,59,Geovibrio thiophilus AAFu3T,168454,168903,+,transcriptional regulator - MarR family - putative,2005520003
+87,2005526049,284,95,280,8,188,7.20E-32,110.3,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,223988,224842,+,outer membrane protein OprM,2005520003
+88,2005526152,155,30,88,3,58,1.10E-13,50.5,pfam01047,MarR,59,Geovibrio thiophilus AAFu3T,338072,338539,+,transcriptional regulator - putative,2005520003
+89,2005526201,421,26,210,2,188,6.80E-13,48.5,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,393266,394531,-,outer membrane efflux protein,2005520003
+90,2005526201,421,231,411,7,188,2.00E-15,56.7,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,393266,394531,-,outer membrane efflux protein,2005520003
+91,2005526563,135,28,86,1,58,3.50E-13,48.9,pfam01047,MarR,59,Geovibrio thiophilus AAFu3T,770817,771224,+,transcriptional regulator - MarR family,2005520003
+92,2005526653,442,30,236,6,187,1.30E-20,73.6,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,848994,850322,+,outer membrane efflux protein,2005520003
+93,2005526653,442,256,439,1,188,1.30E-32,112.7,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,848994,850322,+,outer membrane efflux protein,2005520003
+94,2005526731,94,9,89,4,67,7.60E-07,28.5,pfam02604,PhdYeFM_antitox,75,Geovibrio thiophilus AAFu3T,926455,926739,-,prevent-host-death family protein,2005520003
+95,2005526802,499,25,258,2,186,2.80E-18,66,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,996662,998161,-,outer membrane efflux protein,2005520003
+96,2005526802,499,283,481,5,188,5.70E-16,58.5,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,996662,998161,-,outer membrane efflux protein,2005520003
+97,2005527001,146,3,77,2,71,1.80E-10,40.2,pfam02381,MraZ,72,Geovibrio thiophilus AAFu3T,1197715,1198155,-,protein MraZ,2005520003
+98,2005527001,146,78,146,6,52,7.40E-12,44.7,pfam02381,MraZ,72,Geovibrio thiophilus AAFu3T,1197715,1198155,-,protein MraZ,2005520003
+99,2005527088,104,1,93,1,93,1.30E-28,99.2,pfam00893,Multi_Drug_Res,93,Geovibrio thiophilus AAFu3T,1284900,1285214,+,SugE protein,2005520003
+100,2005527101,139,34,88,2,52,2.20E-10,39.9,pfam01047,MarR,59,Geovibrio thiophilus AAFu3T,1296564,1296983,+,probable transcriptional regulator - putative,2005520003
+101,2005527376,472,64,249,1,186,2.10E-15,56.7,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,1563740,1565158,-,efflux transporter - outer membrane factor (OMF) lipoprotein - NodT family,2005520003
+102,2005527376,472,272,456,7,188,2.50E-16,59.6,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,1563740,1565158,-,efflux transporter - outer membrane factor (OMF) lipoprotein - NodT family,2005520003
+103,2005527392,1457,3,1013,2,1020,0,630.3,pfam00873,ACR_tran,1021,Geovibrio thiophilus AAFu3T,1578923,1583296,-,probable transmembrane drug efflux protein - putative,2005520003
+104,2005527392,1457,1041,1249,1,188,1.50E-22,79.9,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,1578923,1583296,-,probable transmembrane drug efflux protein - putative,2005520003
+105,2005527392,1457,1271,1451,7,188,2.90E-19,69.2,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,1578923,1583296,-,probable transmembrane drug efflux protein - putative,2005520003
+106,2005527623,144,41,102,1,59,1.80E-09,37,pfam12802,MarR_2,62,Geovibrio thiophilus AAFu3T,1797363,1797797,-,transcriptional regulator - MarR family - putative,2005520003
+107,2005527707,467,62,248,1,188,4.90E-32,110.9,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,1882284,1883687,+,ABC export system - outer membrane protein,2005520003
+108,2005527707,467,272,455,8,182,7.40E-27,94,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,1882284,1883687,+,ABC export system - outer membrane protein,2005520003
+109,2005528343,158,43,99,7,62,3.30E-09,36.1,pfam12802,MarR_2,62,Geovibrio thiophilus AAFu3T,2486748,2487224,-,putative MarR-family regulatory protein,2005520003
+110,2005528499,75,7,53,1,34,4.90E-07,29.2,pfam04014,Antitoxin-MazE,47,Geovibrio thiophilus AAFu3T,2637935,2638162,-,conserved domain protein,2005520003
+111,2005528747,422,23,208,1,188,4.60E-36,124,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,2854238,2855506,+,outer membrane efflux protein,2005520003
+112,2005528747,422,231,417,6,185,6.10E-29,100.8,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,2854238,2855506,+,outer membrane efflux protein,2005520003
+113,2005528863,139,34,88,2,52,2.20E-10,39.9,pfam01047,MarR,59,Geovibrio thiophilus AAFu3T,2978692,2979111,+,probable transcriptional regulator - putative,2005520003
+114,2005529018,94,9,89,4,67,7.60E-07,28.5,pfam02604,PhdYeFM_antitox,75,Geovibrio thiophilus AAFu3T,3142298,3142582,-,prevent-host-death family protein,2005520003
+115,2005529192,283,94,279,8,188,7.10E-32,110.4,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,3260294,3261145,+,outer membrane protein OprM,2005520003
+116,2005529290,139,34,88,2,52,2.20E-10,39.9,pfam01047,MarR,59,Geovibrio thiophilus AAFu3T,3371523,3371942,-,probable transcriptional regulator - putative,2005520003
+117,2005529297,283,94,279,8,188,7.10E-32,110.4,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,3380802,3381653,+,outer membrane protein OprM,2005520003
+118,2005529395,139,34,88,2,52,2.20E-10,39.9,pfam01047,MarR,59,Geovibrio thiophilus AAFu3T,3492031,3492450,-,probable transcriptional regulator - putative,2005520003
+119,2005529512,472,64,249,1,186,2.10E-15,56.7,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,3634433,3635851,-,efflux transporter - outer membrane factor (OMF) lipoprotein - NodT family,2005520003
+120,2005529512,472,272,456,7,188,2.50E-16,59.6,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,3634433,3635851,-,efflux transporter - outer membrane factor (OMF) lipoprotein - NodT family,2005520003
+121,2005529528,1457,3,1013,2,1020,0,630.3,pfam00873,ACR_tran,1021,Geovibrio thiophilus AAFu3T,3649616,3653989,-,probable transmembrane drug efflux protein - putative,2005520003
+122,2005529528,1457,1041,1249,1,188,1.50E-22,79.9,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,3649616,3653989,-,probable transmembrane drug efflux protein - putative,2005520003
+123,2005529528,1457,1271,1451,7,188,2.90E-19,69.2,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,3649616,3653989,-,probable transmembrane drug efflux protein - putative,2005520003
+124,2005529621,149,33,91,1,58,5.60E-14,51.4,pfam01047,MarR,59,Geovibrio thiophilus AAFu3T,3740058,3740507,+,transcriptional regulator - MarR family - putative,2005520003
+125,2005529636,94,9,89,4,67,7.60E-07,28.5,pfam02604,PhdYeFM_antitox,75,Geovibrio thiophilus AAFu3T,3756109,3756393,-,prevent-host-death family protein,2005520003
+126,2005529649,149,33,91,1,58,5.60E-14,51.4,pfam01047,MarR,59,Geovibrio thiophilus AAFu3T,3772359,3772808,+,transcriptional regulator - MarR family - putative,2005520003
+127,2005529664,94,9,89,4,67,7.60E-07,28.5,pfam02604,PhdYeFM_antitox,75,Geovibrio thiophilus AAFu3T,3788410,3788694,-,prevent-host-death family protein,2005520003
+128,2005529710,659,49,237,1,183,6.10E-19,68.2,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,3844944,3846923,-,related to outer membrane (agglutination) protein,2005520003
+129,2005529710,659,258,442,2,188,9.40E-22,77.4,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,3844944,3846923,-,related to outer membrane (agglutination) protein,2005520003
+130,2005529710,659,555,650,1,97,1.80E-20,73,pfam00691,OmpA,97,Geovibrio thiophilus AAFu3T,3844944,3846923,-,related to outer membrane (agglutination) protein,2005520003
+131,2005529721,659,49,237,1,183,6.10E-19,68.2,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,3865819,3867798,-,related to outer membrane (agglutination) protein,2005520003
+132,2005529721,659,258,442,2,188,9.40E-22,77.4,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,3865819,3867798,-,related to outer membrane (agglutination) protein,2005520003
+133,2005529721,659,555,650,1,97,1.80E-20,73,pfam00691,OmpA,97,Geovibrio thiophilus AAFu3T,3865819,3867798,-,related to outer membrane (agglutination) protein,2005520003
+134,2005529857,155,30,88,3,58,1.10E-13,50.5,pfam01047,MarR,59,Geovibrio thiophilus AAFu3T,3997342,3997809,-,transcriptional regulator - putative,2005520003
+135,2005529926,155,30,88,3,58,1.10E-13,50.5,pfam01047,MarR,59,Geovibrio thiophilus AAFu3T,4073197,4073664,-,transcriptional regulator - putative,2005520003
+136,2005529985,75,7,53,1,34,4.90E-07,29.2,pfam04014,Antitoxin-MazE,47,Geovibrio thiophilus AAFu3T,4131915,4132142,-,conserved domain protein,2005520003
+137,2005530028,75,7,53,1,34,4.90E-07,29.2,pfam04014,Antitoxin-MazE,47,Geovibrio thiophilus AAFu3T,4166802,4167029,-,conserved domain protein,2005520003
+138,2005530074,467,62,248,1,188,4.90E-32,110.9,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,4214112,4215515,-,ABC export system - outer membrane protein,2005520003
+139,2005530074,467,272,455,8,182,7.40E-27,94,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,4214112,4215515,-,ABC export system - outer membrane protein,2005520003
+140,2005530131,421,26,210,2,188,6.80E-13,48.5,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,4272974,4274239,-,outer membrane efflux protein,2005520003
+141,2005530131,421,231,411,7,188,2.00E-15,56.7,pfam02321,OEP,188,Geovibrio thiophilus AAFu3T,4272974,4274239,-,outer membrane efflux protein,2005520003
+142,2005534523,436,28,224,1,188,1.40E-26,93.1,pfam02321,OEP,188,Synergistes jonesii 78-1 - ATCC 49833,221527,222837,+,outer membrane efflux protein,2005520005
+143,2005534523,436,253,435,5,188,1.20E-23,83.5,pfam02321,OEP,188,Synergistes jonesii 78-1 - ATCC 49833,221527,222837,+,outer membrane efflux protein,2005520005
+144,2005534778,115,9,97,4,87,1.30E-08,34.6,pfam09204,Colicin_immun,88,Synergistes jonesii 78-1 - ATCC 49833,474429,474776,-,hypothetical protein,2005520005
+145,2005534817,139,35,93,1,58,1.30E-15,56.7,pfam01047,MarR,59,Synergistes jonesii 78-1 - ATCC 49833,524439,524858,-,transcriptional regulator - MarR family,2005520005
+146,2005535383,94,6,46,1,41,1.20E-07,31.2,pfam04014,Antitoxin-MazE,47,Synergistes jonesii 78-1 - ATCC 49833,1042214,1042498,-,cell growth regulatory protein,2005520005
+147,2005535419,498,78,265,2,188,7.00E-24,84.3,pfam02321,OEP,188,Synergistes jonesii 78-1 - ATCC 49833,1078895,1080391,+,multidrug efflux system outer membrane subunit,2005520005
+148,2005535419,498,293,475,9,183,3.00E-18,65.9,pfam02321,OEP,188,Synergistes jonesii 78-1 - ATCC 49833,1078895,1080391,+,multidrug efflux system outer membrane subunit,2005520005
+149,2005535472,82,1,73,1,70,3.50E-10,39.2,pfam02604,PhdYeFM_antitox,75,Synergistes jonesii 78-1 - ATCC 49833,1126866,1127114,+,antitoxin of toxin-antitoxin system StbD,2005520005
+150,2005535586,124,5,113,28,93,4.10E-08,33.4,pfam00893,Multi_Drug_Res,93,Synergistes jonesii 78-1 - ATCC 49833,1241419,1241793,-,multidrug resistance protein - SMR family,2005520005
+151,2005535656,423,29,213,1,188,4.70E-26,91.4,pfam02321,OEP,188,Synergistes jonesii 78-1 - ATCC 49833,1313394,1314665,+,outer membrane efflux protein - putative,2005520005
+152,2005535656,423,235,416,1,188,4.80E-29,101.1,pfam02321,OEP,188,Synergistes jonesii 78-1 - ATCC 49833,1313394,1314665,+,outer membrane efflux protein - putative,2005520005
+153,2005536722,431,29,215,3,188,2.70E-22,79.1,pfam02321,OEP,188,Synergistes jonesii 78-1 - ATCC 49833,2378377,2379672,+,outer membrane efflux protein,2005520005
+154,2005536722,431,238,421,7,185,5.30E-28,97.7,pfam02321,OEP,188,Synergistes jonesii 78-1 - ATCC 49833,2378377,2379672,+,outer membrane efflux protein,2005520005
+155,2005536851,141,1,71,1,71,2.70E-19,68.5,pfam02381,MraZ,72,Synergistes jonesii 78-1 - ATCC 49833,2500224,2500649,-,protein MraZ,2005520005
+156,2005536851,141,72,140,2,66,1.20E-16,60.1,pfam02381,MraZ,72,Synergistes jonesii 78-1 - ATCC 49833,2500224,2500649,-,protein MraZ,2005520005
+157,2005538331,149,1,74,1,64,2.20E-12,46.4,pfam02381,MraZ,72,Thermodesulfobacterium commune DSM 2178,1068442,1068891,+,mraZ protein,2005520006
+158,2005538331,149,76,142,2,62,2.90E-15,55.6,pfam02381,MraZ,72,Thermodesulfobacterium commune DSM 2178,1068442,1068891,+,mraZ protein,2005520006
+159,2005538457,470,58,246,1,188,1.00E-22,80.5,pfam02321,OEP,188,Thermodesulfobacterium commune DSM 2178,1191405,1192817,+,outer membrane efflux protein,2005520006
+160,2005538457,470,273,456,6,188,2.30E-34,118.5,pfam02321,OEP,188,Thermodesulfobacterium commune DSM 2178,1191405,1192817,+,outer membrane efflux protein,2005520006
+161,2005538881,427,30,213,1,188,1.40E-23,83.3,pfam02321,OEP,188,Thermodesulfobacterium commune DSM 2178,1612527,1613810,-,Outer membrane efflux protein family,2005520006
+162,2005538881,427,237,420,3,188,4.10E-34,117.7,pfam02321,OEP,188,Thermodesulfobacterium commune DSM 2178,1612527,1613810,-,Outer membrane efflux protein family,2005520006
+163,2005726590,90,7,80,3,65,1.30E-08,34.3,pfam02381,MraZ,72,Candidatus Endomicrobium trichonymphae,790,1060,+,,2005726000
+164,2005727013,447,58,253,3,188,7.90E-24,84.1,pfam02321,OEP,188,Candidatus Endomicrobium trichonymphae,51,1392,+,Outer membrane protein,2005726000
+165,2005727013,447,280,447,5,166,2.80E-23,82.3,pfam02321,OEP,188,Candidatus Endomicrobium trichonymphae,51,1392,+,Outer membrane protein,2005726000
+166,2005727103,412,28,206,8,188,9.50E-15,54.5,pfam02321,OEP,188,Candidatus Endomicrobium trichonymphae,425,1663,+,FusA/NodT family protein precursor,2005726000
+167,2005727103,412,233,410,12,186,9.50E-19,67.5,pfam02321,OEP,188,Candidatus Endomicrobium trichonymphae,425,1663,+,FusA/NodT family protein precursor,2005726000
+168,2005727555,467,68,252,1,188,3.60E-13,49.3,pfam02321,OEP,188,Candidatus Endomicrobium trichonymphae,4171,5574,-,Outer membrane protein,2005726000
+169,2005727555,467,280,459,11,187,9.30E-22,77.4,pfam02321,OEP,188,Candidatus Endomicrobium trichonymphae,4171,5574,-,Outer membrane protein,2005726000
+170,2005728396,290,64,266,1,188,1.50E-23,83.2,pfam02321,OEP,188,Candidatus Endomicrobium trichonymphae,564,1434,+,Outer membrane protein,2005726000
+171,2005728628,359,1,140,65,188,3.90E-22,78.6,pfam02321,OEP,188,Candidatus Endomicrobium trichonymphae,3,1082,+,Outer membrane protein,2005726000
+172,2005728628,359,162,352,1,188,3.60E-27,95,pfam02321,OEP,188,Candidatus Endomicrobium trichonymphae,3,1082,+,Outer membrane protein,2005726000
+173,2005730850,287,4,173,67,180,3.10E-13,49.6,pfam02321,OEP,188,Candidatus Endomicrobium trichonymphae,13,876,-,Outer membrane efflux protein - putative,2005726000
+174,2005732792,253,62,242,13,182,1.10E-26,93.4,pfam02321,OEP,188,Candidatus Endomicrobium trichonymphae,81,842,+,Outer membrane protein,2005726000
+175,2005733046,121,8,78,1,71,8.00E-17,60.6,pfam02381,MraZ,72,Candidatus Endomicrobium trichonymphae,101,466,-,Uncharacterized protein conserved in bacteria,2005726000
+176,2005733046,121,79,121,7,43,3.00E-09,36.3,pfam02381,MraZ,72,Candidatus Endomicrobium trichonymphae,101,466,-,Uncharacterized protein conserved in bacteria,2005726000
+177,2005733309,130,1,120,69,183,8.70E-14,51.4,pfam02321,OEP,188,Candidatus Endomicrobium trichonymphae,363,755,-,FusA/NodT family protein precursor,2005726000
+178,2005733927,109,2,92,101,188,5.50E-15,55.3,pfam02321,OEP,188,Candidatus Endomicrobium trichonymphae,510,839,-,Outer membrane protein,2005726000
+179,2005734593,188,17,138,3,124,6.50E-22,77.8,pfam13338,DUF4095,124,Candidatus Endomicrobium trichonymphae,228,794,-,Glr2661 protein,2005726000
+180,2005734965,73,1,57,69,124,3.60E-10,39.9,pfam13338,DUF4095,124,Candidatus Endomicrobium trichonymphae,380,601,-,,2005726000
+181,2007110338,165,18,92,1,71,1.50E-13,50.1,pfam02381,MraZ,72,Candidatus Accumulibacter phosphatis,302172,302669,+,Uncharacterized protein conserved in bacteria,2007110000
+182,2007110338,165,93,152,2,55,9.80E-15,53.9,pfam02381,MraZ,72,Candidatus Accumulibacter phosphatis,302172,302669,+,Uncharacterized protein conserved in bacteria,2007110000
+183,2007110374,83,1,74,1,58,1.20E-12,47,pfam02604,PhdYeFM_antitox,75,Candidatus Accumulibacter phosphatis,341126,341377,-,Hypothetical protein RSc0872,2007110000
+184,2007110436,409,14,198,1,186,1.30E-17,63.8,pfam02321,OEP,188,Candidatus Accumulibacter phosphatis,151,1380,-,Outer membrane protein,2007110000
+185,2007110436,409,221,400,1,188,1.50E-18,66.9,pfam02321,OEP,188,Candidatus Accumulibacter phosphatis,151,1380,-,Outer membrane protein,2007110000
+186,2007110460,97,10,60,1,33,1.50E-06,27.6,pfam04014,Antitoxin-MazE,47,Candidatus Accumulibacter phosphatis,16708,17001,-,Possible virulence-associated protein,2007110000
+187,2007110474,85,1,41,1,42,1.10E-12,47.4,pfam12441,DUF3680,42,Candidatus Accumulibacter phosphatis,24442,24699,-,Uncharacterized protein conserved in bacteria,2007110000
+188,2007110519,372,2,171,16,188,1.00E-09,38.1,pfam02321,OEP,188,Candidatus Accumulibacter phosphatis,27712,28830,+,,2007110000
+189,2007110519,372,191,369,10,188,4.50E-16,58.8,pfam02321,OEP,188,Candidatus Accumulibacter phosphatis,27712,28830,+,,2007110000
+190,2007110543,432,48,228,1,188,3.10E-11,43.1,pfam02321,OEP,188,Candidatus Accumulibacter phosphatis,49012,50310,+,,2007110000
+191,2007110543,432,250,426,22,188,2.10E-11,43.6,pfam02321,OEP,188,Candidatus Accumulibacter phosphatis,49012,50310,+,,2007110000
+192,2007110569,423,33,218,2,187,3.70E-11,42.8,pfam02321,OEP,188,Candidatus Accumulibacter phosphatis,71394,72665,+,Outer membrane protein,2007110000
+193,2007110569,423,242,420,3,188,7.50E-23,80.9,pfam02321,OEP,188,Candidatus Accumulibacter phosphatis,71394,72665,+,Outer membrane protein,2007110000
+194,2007110638,89,1,82,7,77,3.40E-14,52.6,pfam03693,RHH_2,81,Candidatus Accumulibacter phosphatis,149247,149516,-,Gsr3504 protein,2007110000
+195,2007110667,412,36,207,10,184,4.60E-13,49,pfam02321,OEP,188,Candidatus Accumulibacter phosphatis,4995,6233,-,,2007110000
+196,2007110667,412,230,401,7,181,9.10E-13,48.1,pfam02321,OEP,188,Candidatus Accumulibacter phosphatis,4995,6233,-,,2007110000

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+
+<head>
+	<title>toxin base</title>
+	<meta charset="utf-8" />
+
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+				integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<meta name="viewport" content = "width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href = "https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" >
+
+	<style type="text/css">
+		html,
+		body {
+		  height:100%
+		}
+	</style>
+
+</head>
+<body class="body" style="background-color:#e6e6e6">
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+		<a class="navbar-brand" href="http://www.asaflevylab.com/#"><img src="http://www.asaflevylab.com/labimages/levy_logo.png" style='max-height:40px;'alt="Asaf Levy Lab Logo"></a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-controls="bs-example-navbar-collapse-1" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<!-- Anything inside of collapse navbar-collapse goes into the "hamburger" -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<div class="navbar-nav">
+					<a class="nav-item nav-link active" href="/toxin-base/"> Home </a>
+				</div> <!-- /.navbar-nav, left-hand content -->
+				<div class="navbar-nav ml-auto">
+					<!-- SEARCH BAR -->
+					<form class="form-inline" action="/genusearch" method="get">
+						<input class="form-control mr-sm-2" name="q" type="text" placeholder="Gene ID" aria-label="Search">
+						<button class="btn btn-outline my-2 my-sm-0" type="submit" style="color:green">SEARCH </button>
+					</form>
+				</div> <!-- /.navbar-nav, right-hand content -->
+			</div> <!-- /.navbar-collapse -->
+		</nav>
+    <div class="container-fluid" style="min-height:95%; ">
+    <br>
+    <h5> search for oganism by name</h5>
+    <br>
+    {% for entry in abc %}
+    <!-- <div class="btn-group">
+      <button type="button" class="btn btn-dark btn-sm dropdown-toggle" data-toggle="dropdown">{{entry}}<span class="caret"></span></button>
+      <ul class="dropdown-menu scrollable-menu" role="menu" style = "height:auto;max-height: 500px;overflow-x: hidden;">
+        {% for entry1 in org_list %}
+          <li><a class="dropdown-item" href="{% url 'first_app:org_search' entry1 %}">{{entry1}}</a></li>
+           {% endfor %}
+      </ul>
+  </div> -->
+    <a class="btn btn-dark btn-sm" href="{% url 'first_app:org_list_by_abc' entry %}"role="button">{{entry}}</a>
+    {% endfor %}
+    <!-- <a class="btn btn-dark btn-sm" href="b_organisms/" role="button">B</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">C</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">D</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">E</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">F</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">G</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">H</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">I</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">J</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">K</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">L</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">M</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">N</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">O</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">P</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">Q</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">R</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">S</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">T</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">U</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">V</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">W</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">X</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">Y</a>
+    <a class="btn btn-dark btn-sm" href="organisms/" role="button">Z</a> -->
+</div>
+</html>

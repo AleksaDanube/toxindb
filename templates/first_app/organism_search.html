@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+
+<head>
+	<title>toxin base</title>
+	<meta charset="utf-8" />
+
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+				integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<meta name="viewport" content = "width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href = "https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" >
+
+	<style type="text/css">
+		html,
+		body {
+		  height:100%
+		}
+	</style>
+
+</head>
+<body class="body" style="background-color:#e6e6e6">
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+		<a class="navbar-brand" href="http://www.asaflevylab.com/#"><img src="http://www.asaflevylab.com/labimages/levy_logo.png" style='max-height:40px;'alt="Asaf Levy Lab Logo"></a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-controls="bs-example-navbar-collapse-1" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<!-- Anything inside of collapse navbar-collapse goes into the "hamburger" -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<div class="navbar-nav">
+					<a class="nav-item nav-link active" href="/"> Home </a>
+				</div> <!-- /.navbar-nav, left-hand content -->
+				<div class="navbar-nav ml-auto">
+					<!-- SEARCH BAR -->
+					<!-- <form class="form-inline" action="/genusearch" method="get">
+						<input class="form-control mr-sm-2" name="q" type="text" placeholder="Gene ID" aria-label="Search">
+						<button class="btn btn-outline my-2 my-sm-0" type="submit" style="color:green">SEARCH </button>
+					</form> -->
+				</div> <!-- /.navbar-nav, right-hand content -->
+			</div> <!-- /.navbar-collapse -->
+		</nav>
+
+        <div class="container-fluid" style="min-height:95%; ">
+          <div class="row">
+              <div class="col-sm-1">
+                </div>
+            <div class="col-sm-10"><br>
+
+                    <center>
+  				           <h3><i>{{ organism }}</i></h3><br>
+                    </center>
+
+              <!-- <div class="accordion" id="landingPageAccordion">
+  							<div class="card">
+  								<div class="card-header" id="headingOne">
+  									<h2 class="mb-0">
+  										<button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+
+  													<h3><i>Toxins</i></h3>
+
+  										</button>
+  									</h2>
+
+  							  </div>
+
+  								<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#landingPageAccordion">
+  									<div class="card-body">
+                      <center>
+                          <img src="data:image/png;base64,{{ graph1|safe }}">
+
+                     </center>
+
+  									</div>
+  								</div>
+  							</div>
+  							<div class="card">
+  								<div class="card-header" id="headingTwo">
+  									<h2 class="mb-0">
+  										<button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+  									<h3><i>Anti - Toxins</i></h3>
+  										</button>
+  									</h2>
+  								</div>
+  								<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#landingPageAccordion">
+  									<div class="card-body">
+                      <center>
+
+                            <img src="data:image/png;base64,{{ graph2|safe }}">
+             				 </center>
+  									</div>
+  								</div>
+  							</div>
+  						</div></br> -->
+
+  </div>
+  <div class="col-sm-1">
+    </div>
+
+
+
+      			  </div>
+
+            <div class="col-sm-12">
+              <table class="table table-striped">
+              {% if page_obj %}
+                 <thead>
+                     <tr>
+                        <th scope="col">Pfam name</th>
+                       <th scope="col">Protein ID</th>
+                       <th scope="col">Start Coordinate</th>
+                       <th scope="col">End Coordinate</th>
+                       <th scope="col">Length (aa)</th>
+
+                        <th scope="col">Domain</th>
+                     </tr>
+                 </thead>
+                 <tbody>
+                {% for entry in page_obj %}
+                <tr>
+                        <td>{{entry.pfam_id}} </td>
+                        <td><a href="https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=FindGenes&page=fgFindGenes&searchFilter=gene_oid_list&searchTerm={{ entry.gene_id }}&noErrorFlag=1&seqstatus=&domainfilter=&selectType=allIsolates&taxonChoice=allIsolates&data_type=&file=g.gene_oid_list128658" data-toggle="tooltip" data-placement="top" title="IMG external DB">{{ entry.gene_id }}</a> </td>
+                        <td>{{ entry.pfam_start }}</td>
+                        <td>{{entry.pfam_end}}</td>
+                        {% widthratio entry.pfam_start 1 -1 as result %}
+                        <td>{{entry.pfam_end|add:result}}</td>
+                        
+                          <td>{{ entry.toxic_id }} </td>
+                      </tr>
+                  {% endfor %}
+                </tbody>
+              </table>
+
+            {% else %}
+              <p>No Records. Table Not Created.</p>
+            {% endif %}
+            </div>
+          </div>
+          <div class="col-sm-12">
+
+            <div class="pagination">
+              <span class="step-links">
+                {% if page_obj.has_previous %}
+                  <a href="?page=1">&laquo; first</a>
+                  <a href="?page={{ page_obj.previous_page_number }}">previous</a>
+                {% endif %}
+              <span class="current">
+                Page {{ page_obj.number }} of {{ page_obj.paginator.num_pages }}.
+              </span>
+
+                {% if page_obj.has_next %}
+                  <a href="?page={{ page_obj.next_page_number }}">next</a>
+                  <a href="?page={{ page_obj.paginator.num_pages }}">last &raquo;</a>
+              {% endif %}
+            </span>
+          </div>
+        </div>
+
+    </div>
+  </body>
+</html>

@@ -1,0 +1,63 @@
+﻿,proteinID,gene_length,pfam_start,pfam_end,pfamID,pfam_name,pfam_length,organism,seqID,start,end,strand,product_name,genome,pfam_toxity
+0,2001800179,134,2,109,PF13470,PIN_3,119,Fibrobacter succinogenes S85,fsucc_Contig2370,24323,24727,+,Predicted nucleic acid-binding protein - contains PIN domain,2001800000,tox
+1,2001800208,272,1,167,PF05704,Caps_synth,278,Fibrobacter succinogenes S85,fsucc_Contig2370,53623,54441,-,Hypothetical protein,2001800000,tox
+4,2001800530,346,76,337,PF13310,Virulence_RhuM,260,Fibrobacter succinogenes S85,fsucc_Contig2370,433038,434078,-,Hypothetical protein MM2203,2001800000,
+5,2001800617,217,31,118,PF07804,HipA_C,79,Fibrobacter succinogenes S85,fsucc_Contig2370,544479,545132,-,Hypothetical protein,2001800000,tox
+6,2001801049,431,4,115,PF13657,Couple_hipA,99,Fibrobacter succinogenes S85,fsucc_Contig2370,1023221,1024516,-,Hypothetical protein CC2770,2001800000,
+7,2001801049,431,169,262,PF07805,HipA_N,81,Fibrobacter succinogenes S85,fsucc_Contig2370,1023221,1024516,-,Hypothetical protein CC2770,2001800000,
+8,2001801049,431,268,347,PF07804,HipA_C,79,Fibrobacter succinogenes S85,fsucc_Contig2370,1023221,1024516,-,Hypothetical protein CC2770,2001800000,tox
+9,2001801108,151,3,115,PF13470,PIN_3,119,Fibrobacter succinogenes S85,fsucc_Contig2370,1115565,1116020,-,,2001800000,tox
+10,2001801355,305,12,296,PF08843,DUF1814,233,Fibrobacter succinogenes S85,fsucc_Contig2370,1376343,1377260,-,Glr4338 protein,2001800000,tox
+11,2001801395,112,8,111,PF05015,Plasmid_killer,93,Fibrobacter succinogenes S85,fsucc_Contig2370,1415912,1416250,-,,2001800000,tox
+12,2001801408,332,64,319,PF13310,Virulence_RhuM,260,Fibrobacter succinogenes S85,fsucc_Contig2370,1431591,1432589,-,Conserved hypothetical protein,2001800000,
+13,2001801832,155,20,152,PF14436,EndoU_bacteria,128,Fibrobacter succinogenes S85,fsucc_Contig2370,1930380,1930847,-,,2001800000,tox
+14,2001802095,243,4,150,PF02674,Colicin_V,146,Fibrobacter succinogenes S85,fsucc_Contig2370,2249751,2250482,-,,2001800000,tox
+15,2001802120,287,31,278,PF08843,DUF1814,233,Fibrobacter succinogenes S85,fsucc_Contig2370,2275146,2276009,-,Similar to unknown protein of Photorhabdus,2001800000,tox
+16,2001802275,105,7,97,PF05016,Plasmid_stabil,90,Fibrobacter succinogenes S85,fsucc_Contig2370,2451837,2452154,+,,2001800000,tox
+17,2001802278,136,4,116,PF13470,PIN_3,119,Fibrobacter succinogenes S85,fsucc_Contig2370,2452969,2453379,+,,2001800000,tox
+18,2001802512,88,6,85,PF06769,Plasmid_Txe,80,Fibrobacter succinogenes S85,fsucc_Contig2370,2718610,2718876,+,Hypothetical protein VV1793,2001800000,tox
+19,2001802661,91,5,91,PF05016,Plasmid_stabil,90,Fibrobacter succinogenes S85,fsucc_Contig2370,2875487,2875762,+,Hypothetical protein,2001800000,tox
+20,2001803163,112,8,99,PF05016,Plasmid_stabil,90,Fibrobacter succinogenes S85,fsucc_Contig2370,3446387,3446725,-,Plasmid stabilization system protein,2001800000,tox
+21,2001803318,104,7,92,PF04365,DUF497,80,Fibrobacter succinogenes S85,fsucc_Contig2370,3654846,3655160,-,Hypothetical protein Asl2195,2001800000,tox
+22,2001803341,2237,41,219,PF03534,SpvB,293,Fibrobacter succinogenes S85,fsucc_Contig2370,3679336,3686049,-,Insecticidal toxin complex,2001800000,
+23,2001803341,2237,463,531,PF13517,VCBS,61,Fibrobacter succinogenes S85,fsucc_Contig2370,3679336,3686049,-,Insecticidal toxin complex,2001800000,
+24,2001803341,2237,598,767,PF12256,TcdB_toxin_midN,175,Fibrobacter succinogenes S85,fsucc_Contig2370,3679336,3686049,-,Insecticidal toxin complex,2001800000,tox
+25,2001803341,2237,788,932,PF12255,TcdB_toxin_midC,148,Fibrobacter succinogenes S85,fsucc_Contig2370,3679336,3686049,-,Insecticidal toxin complex,2001800000,tox
+26,2001803346,2210,41,217,PF03534,SpvB,293,Fibrobacter succinogenes S85,fsucc_Contig2370,3689012,3695644,-,Insecticidal toxin protein - putative,2001800000,
+27,2001803346,2210,463,531,PF13517,VCBS,61,Fibrobacter succinogenes S85,fsucc_Contig2370,3689012,3695644,-,Insecticidal toxin protein - putative,2001800000,
+28,2001803346,2210,598,767,PF12256,TcdB_toxin_midN,175,Fibrobacter succinogenes S85,fsucc_Contig2370,3689012,3695644,-,Insecticidal toxin protein - putative,2001800000,tox
+29,2004170119,81,12,71,PF07927,YcfA,56,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold2,4270,4515,-,unknown protein,2004170000,tox
+30,2004170141,137,5,126,PF01850,PIN,121,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold2,23479,23892,-,conserved hypothetical protein,2004170000,
+31,2004170162,114,2,111,PF02452,PemK,110,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold2,38400,38744,+,Conserved hypothetical protein,2004170000,tox
+32,2004170174,76,10,66,PF07927,YcfA,56,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold2,52173,52403,+,conserved hypothetical protein,2004170000,tox
+33,2004170182,52,4,45,PF02452,PemK,110,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold2,57039,57197,+,unknown protein,2004170000,tox
+34,2004170184,98,6,85,PF04365,DUF497,80,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold2,57568,57864,+,conserved hypothetical protein,2004170000,tox
+35,2004170187,90,5,84,PF04365,DUF497,80,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold2,59583,59855,+,conserved hypothetical protein,2004170000,tox
+36,2004170386,83,4,79,PF09907,DUF2136,76,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold3,122433,122684,+,conserved hypothetical protein,2004170000,tox
+37,2004170406,113,5,110,PF02452,PemK,110,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold3,133171,133512,+,hypothetical protein,2004170000,tox
+38,2004170513,79,10,74,PF07927,YcfA,56,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold3,240133,240372,+,hypothetical protein,2004170000,tox
+39,2004170650,150,15,140,PF01850,PIN,121,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold3,348918,349370,+,unknown protein,2004170000,
+40,2004170814,84,5,77,PF05016,Plasmid_stabil,90,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold3,476052,476306,+,conserved hypothetical protein,2004170000,tox
+41,2004170842,68,1,57,PF07927,YcfA,56,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold3,500984,501190,+,conserved hypothetical protein,2004170000,tox
+42,2004170884,117,7,115,PF02452,PemK,110,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold3,536897,537250,-,similar to YdcE protein - chain A,2004170000,tox
+43,2004170892,177,4,146,PF02674,Colicin_V,146,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold3,542630,543163,-,hypothetical protein,2004170000,tox
+44,2004170987,81,1,78,PF05016,Plasmid_stabil,90,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold3,633261,633506,+,conserved hypothetical protein,2004170000,tox
+45,2004171096,62,3,55,PF07927,YcfA,56,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold3,731325,731513,+,conserved hypothetical protein,2004170000,tox
+46,2004171301,93,1,93,PF05015,Plasmid_killer,93,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold4,19820,20101,+,other programmed cell death -toxins,2004170000,tox
+47,2004171439,97,8,89,PF04365,DUF497,80,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold4,126164,126457,+,conserved hypothetical protein,2004170000,tox
+48,2004171521,96,10,96,PF01909,NTP_transf_2,93,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold4,210734,211024,-,conserved hypothetical protein,2004170000,
+49,2004171626,96,10,96,PF01909,NTP_transf_2,93,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold4,305155,305445,-,conserved hypothetical protein,2004170000,
+50,2004171694,68,5,68,PF04365,DUF497,80,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold4,360210,360416,-,conserved hypothetical protein,2004170000,tox
+51,2004171696,98,3,89,PF05016,Plasmid_stabil,90,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold4,361368,361664,-,conserved hypothetical protein,2004170000,tox
+52,2004171938,1031,4,1016,PF00873,ACR_tran,1021,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold4,603294,606389,-,osmoregulation and excretion -detoxification by export,2004170000,
+53,2004172116,98,5,91,PF05016,Plasmid_stabil,90,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold4,761927,762223,-,conserved hypothetical protein,2004170000,tox
+54,2004172258,97,1,97,PF05015,Plasmid_killer,93,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,2,295,+,conserved hypothetical plasmid maintenance protein HigA,2004170000,tox
+55,2004172456,72,9,66,PF07927,YcfA,56,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,183415,183633,+,conserved hypothetical protein,2004170000,tox
+56,2004172469,76,2,69,PF02452,PemK,110,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,190059,190289,+,hypothetical protein,2004170000,tox
+57,2004172656,108,5,106,PF02452,PemK,110,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,365663,365989,+,conserved hypothetical protein,2004170000,tox
+58,2004172658,108,45,98,PF07927,YcfA,56,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,366586,366912,+,hypothetical protein,2004170000,tox
+59,2004172907,94,2,92,PF02452,PemK,110,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,600240,600524,-,unknown protein,2004170000,tox
+60,2004172943,110,5,108,PF02452,PemK,110,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,635088,635420,-,conserved hypothetical protein,2004170000,tox
+61,2004173143,194,4,146,PF02674,Colicin_V,146,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,825214,825798,+,hypothetical protein,2004170000,tox
+62,2004173255,76,9,64,PF07927,YcfA,56,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,923639,923869,+,hypothetical protein,2004170000,tox
+63,2004173420,74,9,64,PF07927,YcfA,56,Candidatus Kuenenia stuttgartiensis,anmx_Scaffold5,1075299,1075523,+,conserved hypothetical protein,2004170000,tox

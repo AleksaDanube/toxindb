@@ -1,0 +1,68 @@
+﻿proteinID,gene_length,pfam_start,pfam_end,s_start,s_end,pfam_e_val,pfam_bit_score,pfamID,pfam_name,pfam_length,organism,start,end,strand,product_name,genome,toxicity
+2001800179,134,2,109,1,116,6.50E-19,68.5,pfam13470,PIN_3,119,Fibrobacter succinogenes S85,24323,24727,+,Predicted nucleic acid-binding protein - contains PIN domain,2001800000,tox
+2001800208,272,1,167,47,157,2.10E-11,43.3,pfam05704,Caps_synth,278,Fibrobacter succinogenes S85,53623,54441,-,Hypothetical protein,2001800000,tox
+2001800278,400,65,188,1,124,4.40E-33,113.7,pfam00482,T2SF,124,Fibrobacter succinogenes S85,143509,144711,-,Type IV pilus biogenesis protein PilC,2001800000,tox
+2001800278,400,268,390,1,124,7.50E-28,96.8,pfam00482,T2SF,124,Fibrobacter succinogenes S85,143509,144711,-,Type IV pilus biogenesis protein PilC,2001800000,tox
+2001800530,346,76,337,2,260,9.00E-113,375.4,pfam13310,Virulence_RhuM,260,Fibrobacter succinogenes S85,433038,434078,-,Hypothetical protein MM2203,2001800000,tox
+2001800617,217,31,118,1,79,6.90E-19,67.6,pfam07804,HipA_C,79,Fibrobacter succinogenes S85,544479,545132,-,Hypothetical protein,2001800000,tox
+2001801049,431,4,115,1,98,3.30E-25,88.1,pfam13657,Couple_hipA,99,Fibrobacter succinogenes S85,1023221,1024516,-,Hypothetical protein CC2770,2001800000,tox
+2001801049,431,169,262,1,82,2.20E-16,59.7,pfam07805,HipA_N,81,Fibrobacter succinogenes S85,1023221,1024516,-,Hypothetical protein CC2770,2001800000,tox
+2001801049,431,268,347,1,79,1.20E-20,73.2,pfam07804,HipA_C,79,Fibrobacter succinogenes S85,1023221,1024516,-,Hypothetical protein CC2770,2001800000,tox
+2001801108,151,3,115,2,117,2.50E-16,60.1,pfam13470,PIN_3,119,Fibrobacter succinogenes S85,1115565,1116020,-,,2001800000,tox
+2001801355,305,12,296,3,227,2.80E-29,102.4,pfam08843,DUF1814,233,Fibrobacter succinogenes S85,1376343,1377260,-,Glr4338 protein,2001800000,tox
+2001801395,112,8,111,3,93,1.90E-05,24.5,pfam05015,Plasmid_killer,93,Fibrobacter succinogenes S85,1415912,1416250,-,,2001800000,tox
+2001801408,332,64,319,1,260,3.70E-112,373.4,pfam13310,Virulence_RhuM,260,Fibrobacter succinogenes S85,1431591,1432589,-,Conserved hypothetical protein,2001800000,tox
+2001801832,155,20,152,2,128,5.70E-25,87.4,pfam14436,EndoU_bacteria,128,Fibrobacter succinogenes S85,1930380,1930847,-,,2001800000,tox
+2001802095,243,4,150,1,138,1.40E-23,83.2,pfam02674,Colicin_V,146,Fibrobacter succinogenes S85,2249751,2250482,-,,2001800000,tox
+2001802120,287,31,278,2,185,1.40E-28,100.1,pfam08843,DUF1814,233,Fibrobacter succinogenes S85,2275146,2276009,-,Similar to unknown protein of Photorhabdus,2001800000,tox
+2001802275,105,7,97,1,90,2.20E-10,40.6,pfam05016,Plasmid_stabil,90,Fibrobacter succinogenes S85,2451837,2452154,+,,2001800000,tox
+2001802278,136,4,116,2,117,1.60E-18,67.2,pfam13470,PIN_3,119,Fibrobacter succinogenes S85,2452969,2453379,+,,2001800000,tox
+2001802512,88,6,85,1,80,2.80E-34,116.6,pfam06769,Plasmid_Txe,80,Fibrobacter succinogenes S85,2718610,2718876,+,Hypothetical protein VV1793,2001800000,tox
+2001802661,91,5,91,1,89,3.20E-07,30.5,pfam05016,Plasmid_stabil,90,Fibrobacter succinogenes S85,2875487,2875762,+,Hypothetical protein,2001800000,tox
+2001803163,112,8,99,1,89,1.40E-13,50.9,pfam05016,Plasmid_stabil,90,Fibrobacter succinogenes S85,3446387,3446725,-,Plasmid stabilization system protein,2001800000,tox
+2001803318,104,7,92,1,79,1.10E-24,86,pfam04365,DUF497,80,Fibrobacter succinogenes S85,3654846,3655160,-,Hypothetical protein Asl2195,2001800000,tox
+2001803341,2237,41,219,6,186,1.30E-32,112.9,pfam03534,SpvB,293,Fibrobacter succinogenes S85,3679336,3686049,-,Insecticidal toxin complex,2001800000,tox
+2001803341,2237,463,531,1,60,3.00E-08,33.7,pfam13517,VCBS,61,Fibrobacter succinogenes S85,3679336,3686049,-,Insecticidal toxin complex,2001800000,tox
+2001803341,2237,598,767,26,160,4.30E-20,71.7,pfam12256,TcdB_toxin_midN,175,Fibrobacter succinogenes S85,3679336,3686049,-,Insecticidal toxin complex,2001800000,tox
+2001803341,2237,788,932,3,147,6.60E-07,28.9,pfam12255,TcdB_toxin_midC,148,Fibrobacter succinogenes S85,3679336,3686049,-,Insecticidal toxin complex,2001800000,tox
+2001803346,2210,41,217,6,187,1.70E-32,112.5,pfam03534,SpvB,293,Fibrobacter succinogenes S85,3689012,3695644,-,Insecticidal toxin protein - putative,2001800000,tox
+2001800446,110,2,94,2,93,5.20E-25,87.6,pfam00893,Multi_Drug_Res,93,Fibrobacter succinogenes S85,343764,344096,+,EmrE protein,2001800000,anti-tox
+2001800837,432,26,211,1,187,1.30E-28,99.7,pfam02321,OEP,188,Fibrobacter succinogenes S85,767559,768857,-,Outer membrane efflux protein,2001800000,anti-tox
+2001800837,432,239,429,1,184,5.20E-21,74.9,pfam02321,OEP,188,Fibrobacter succinogenes S85,767559,768857,-,Outer membrane efflux protein,2001800000,anti-tox
+2001801356,251,31,161,1,123,1.40E-05,25.1,pfam13338,DUF4095,124,Fibrobacter succinogenes S85,1377262,1378017,-,Hypothetical protein XCC3118,2001800000,anti-tox
+2001801356,251,151,219,4,67,2.60E-18,65.4,pfam11459,DUF2893,69,Fibrobacter succinogenes S85,1377262,1378017,-,Hypothetical protein XCC3118,2001800000,anti-tox
+2001801660,60,2,52,8,43,1.10E-07,31.2,pfam02604,PhdYeFM_antitox,75,Fibrobacter succinogenes S85,1715694,1715876,+,,2001800000,anti-tox
+2001802121,191,17,137,5,122,6.70E-10,39,pfam13338,DUF4095,124,Fibrobacter succinogenes S85,2276012,2276587,-,,2001800000,anti-tox
+2001802274,85,2,76,2,70,6.50E-14,51.1,pfam02604,PhdYeFM_antitox,75,Fibrobacter succinogenes S85,2451587,2451844,+,,2001800000,anti-tox
+2001802784,471,26,256,2,188,3.00E-25,88.8,pfam02321,OEP,188,Fibrobacter succinogenes S85,3010956,3012371,+,Outer membrane efflux protein,2001800000,anti-tox
+2001802784,471,279,469,2,188,6.90E-29,100.6,pfam02321,OEP,188,Fibrobacter succinogenes S85,3010956,3012371,+,Outer membrane efflux protein,2001800000,anti-tox
+2001803077,157,5,77,2,60,3.40E-08,33,pfam02381,MraZ,72,Fibrobacter succinogenes S85,3349988,3350461,-,Conserved hypothetical,2001800000,anti-tox
+2001803077,157,81,144,8,51,2.20E-07,30.3,pfam02381,MraZ,72,Fibrobacter succinogenes S85,3349988,3350461,-,Conserved hypothetical,2001800000,anti-tox
+2001803164,91,5,78,2,71,1.80E-14,52.9,pfam02604,PhdYeFM_antitox,75,Fibrobacter succinogenes S85,3446715,3446990,-,Hypothetical protein,2001800000,anti-tox
+2001803177,462,25,232,3,188,5.80E-16,58.5,pfam02321,OEP,188,Fibrobacter succinogenes S85,3461605,3462993,-,Outer membrane efflux protein - putative,2001800000,anti-tox
+2001803177,462,256,433,2,160,2.70E-11,43.2,pfam02321,OEP,188,Fibrobacter succinogenes S85,3461605,3462993,-,Outer membrane efflux protein - putative,2001800000,anti-tox
+2001803241,730,164,442,17,300,1.20E-16,59.7,pfam05547,Peptidase_M6,646,Fibrobacter succinogenes S85,3547561,3549753,-,Secreted metalloprotease,2001800000,anti-tox
+2001803317,71,1,60,6,62,3.30E-10,39.8,pfam14384,DUF4415,62,Fibrobacter succinogenes S85,3654634,3654849,-,Hypothetical protein,2001800000,anti-tox
+2001803411,563,22,300,1,187,8.90E-28,97,pfam02321,OEP,188,Fibrobacter succinogenes S85,3791700,3793391,-,Hypothetical protein SO4090,2001800000,anti-tox
+2001803411,563,320,502,1,188,1.60E-25,89.7,pfam02321,OEP,188,Fibrobacter succinogenes S85,3791700,3793391,-,Hypothetical protein SO4090,2001800000,anti-tox
+2001803449,145,36,94,1,58,1.00E-16,60.2,pfam01047,MarR,59,Fibrobacter succinogenes S85,3836956,3837393,+,Transcriptional regulator - MarR family,2001800000,anti-tox
+2004171384,555,81,322,2,188,2.00E-22,79.6,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,77064,78731,+,hypothetical protein,2004170000,anti-tox
+2004171384,555,349,540,1,187,6.40E-27,94.2,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,77064,78731,+,hypothetical protein,2004170000,anti-tox
+2004171440,79,1,60,21,62,1.00E-12,47.8,pfam14384,DUF4415,62,Candidatus Kuenenia stuttgartiensis,126454,126693,+,conserved hypothetical protein,2004170000,anti-tox
+2004171576,90,30,74,6,42,1.80E-07,30.7,pfam09957,DUF2191,47,Candidatus Kuenenia stuttgartiensis,262117,262389,-,unknown protein,2004170000,anti-tox
+2004171937,493,83,269,3,188,9.40E-23,80.6,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,601816,603297,-,osmoregulation and excretion -general bacterial porin family (e.g. ompf - sugar porin - omf) -detoxification by export,2004170000,anti-tox
+2004171937,493,296,479,7,188,2.60E-24,85.7,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,601816,603297,-,osmoregulation and excretion -general bacterial porin family (e.g. ompf - sugar porin - omf) -detoxification by export,2004170000,anti-tox
+2004172297,489,121,283,28,188,6.40E-10,38.8,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,39397,40866,-,hypothetical outermembrane protein,2004170000,anti-tox
+2004172297,489,307,483,1,188,8.70E-12,44.8,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,39397,40866,-,hypothetical outermembrane protein,2004170000,anti-tox
+2004172391,146,1,76,1,71,7.90E-20,70.2,pfam02381,MraZ,72,Candidatus Kuenenia stuttgartiensis,124788,125228,+,conserved hypothetical protein,2004170000,anti-tox
+2004172391,146,77,146,2,69,2.50E-15,55.8,pfam02381,MraZ,72,Candidatus Kuenenia stuttgartiensis,124788,125228,+,conserved hypothetical protein,2004170000,anti-tox
+2004172808,89,4,49,2,45,7.60E-09,34.9,pfam04014,Antitoxin-MazE,47,Candidatus Kuenenia stuttgartiensis,511793,512062,+,hypothetical protein,2004170000,anti-tox
+2004172929,479,64,263,4,188,3.10E-20,72.4,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,622530,623969,+,detoxification by export,2004170000,anti-tox
+2004172929,479,286,472,4,188,1.40E-20,73.5,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,622530,623969,+,detoxification by export,2004170000,anti-tox
+2004173550,139,34,126,1,93,3.20E-28,97.9,pfam00893,Multi_Drug_Res,93,Candidatus Kuenenia stuttgartiensis,1197992,1198411,-,protein folding and stabilization -eukaryotic plasma membrane / membrane attached,2004170000,anti-tox
+2004174138,265,41,158,6,124,1.20E-24,86.7,pfam13338,DUF4095,124,Candidatus Kuenenia stuttgartiensis,1685993,1686790,+,conserved hypothetical protein,2004170000,anti-tox
+2004174220,106,1,94,1,93,3.40E-23,81.8,pfam00893,Multi_Drug_Res,93,Candidatus Kuenenia stuttgartiensis,1761132,1761452,+,proton driven antiporter -drug transport,2004170000,anti-tox
+2004174325,457,69,250,4,170,8.30E-22,77.5,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,1857547,1858920,+,heavy metal ion transport (Cu - Fe - etc.) -inorganic chemical agent resistance (e.g. heavy metals),2004170000,anti-tox
+2004174325,457,273,452,2,188,8.30E-24,84,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,1857547,1858920,+,heavy metal ion transport (Cu - Fe - etc.) -inorganic chemical agent resistance (e.g. heavy metals),2004170000,anti-tox
+2004174345,486,71,250,1,188,3.80E-17,62.3,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,1880350,1881810,+,similar to outermembrane (copper) efflux protein,2004170000,anti-tox
+2004174345,486,274,453,1,188,9.70E-15,54.5,pfam02321,OEP,188,Candidatus Kuenenia stuttgartiensis,1880350,1881810,+,similar to outermembrane (copper) efflux protein,2004170000,anti-tox
